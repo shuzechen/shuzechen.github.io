@@ -133,3 +133,12 @@ h2 {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.newsbox {
+  margin: 12px 0 0 0;
+  padding: 14px 18px;
+  background-color: #ffffd0;
+  border: 1px solid #e0e0a8;
+  border-radius: 6px;
+  line-height: 1.5;
+}
