@@ -142,3 +142,7 @@ span.highlight {
   border-radius: 6px;
   line-height: 1.5;
 }
+
+.nobreak {
+  white-space: nowrap;
+}
